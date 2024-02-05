@@ -1,4 +1,4 @@
-<h1 align="center">✨🧚🏻‍♀️🪄✨ .github  💕🦄🌈🏰</h1>
+<h1 align="center">✨🧚🏻‍♀️🪄✨ .github 💕🦄🌈🏰</h1>
 
 <p align="center">
     <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
@@ -21,7 +21,12 @@
     <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2F.github%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=c000c0" alt="W2C">
 </p>
 
-<h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx  💕🦄🌈🏰</h1>
+<p align="center">
+    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/.github/ci?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CI">
+    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/.github/cd?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CD">
+</p>
+
+<h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
 <p align="center">
     <img src="fractal.gif">
