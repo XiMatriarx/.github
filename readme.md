@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+    <img src="[https://img.shields.io/github/release-date/XiMatriarx/.github?style=flat&label=Release%20Date&labelColor=404040&color=c000c0" alt="Release Date">
     <img src="https://img.shields.io/github/commits-since/XiMatriarx/.github/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
 </p>
 
