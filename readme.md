@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/github/languages/top/XiMatriarx/.github?style=flat&label=Top%20Language&labelColor=404040&color=c000c0" alt="Top Language">
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2F.github%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=c000c0" alt="W2C">
+</p>
+
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx  💕🦄🌈🏰</h1>
 
 <p align="center">
