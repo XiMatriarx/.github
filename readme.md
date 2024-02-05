@@ -23,7 +23,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/.github/ci?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CI">
-    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/.github/cd?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CD">
+    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/.github/cd?style=flat&label=CD&labelColor=404040&color=c000c0" alt="CD">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
