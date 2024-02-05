@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/github/commits-since/XiMatriarx/.github/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/XiMatriarx/.github?style=flat&label=Languages&labelColor=404040&color=c000c0" alt="Languages">
+    <img src="https://img.shields.io/github/languages/top/XiMatriarx/.github?style=flat&label=Top%20Language&labelColor=404040&color=c000c0" alt="Top Language">
+</p>
+
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx  💕🦄🌈🏰</h1>
 
 <p align="center">
