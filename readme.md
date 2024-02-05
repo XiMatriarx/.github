@@ -1,10 +1,10 @@
 <h1 align="center">✨🧚🏻‍♀️🪄✨ .github  💕🦄🌈🏰</h1>
 
-<p>
-	<image src="https://img.shields.io/github/commit-activity/w/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
-	<image src="https://img.shields.io/github/commit-activity/m/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
-	<image src="https://img.shields.io/github/commit-activity/y/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
-	<image src="https://img.shields.io/github/commit-activity/t/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
+<p align="center">
+    <image src="https://img.shields.io/github/commit-activity/w/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
+    <image src="https://img.shields.io/github/commit-activity/m/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
+    <image src="https://img.shields.io/github/commit-activity/y/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
+    <image src="https://img.shields.io/github/commit-activity/t/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx  💕🦄🌈🏰</h1>
