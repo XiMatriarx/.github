@@ -23,8 +23,10 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/issues-closed/XiMatriarx/.github?style=flat&label=Closed%20Issues&labelColor=404040&color=c000c0" alt="Issues">
-    <img src="https://img.shields.io/github/issues-pr-closed/XiMatriarx/.github?style=flat&label=Closed%20Pull%20Requests&labelColor=404040&color=c000c0" alt="Pull Requests">
+    <img src="https://img.shields.io/github/issues-raw/XiMatriarx/.github?style=flat&label=Issues&labelColor=404040&color=c000c0" alt="Issues">
+    <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/.github?style=flat&label=Issues%20Closed&labelColor=404040&color=c000c0" alt="Issues Closed">
+    <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/.github?style=flat&label=Pull%20Requests%20Open&labelColor=404040&color=c000c0" alt="Pull Requests">
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/.github?label=Pull%20Requests%20Closed&labelColor=404040&color=c000c0" alt="Pull Requests Closed">
 </p>
 
 <p align="center">
