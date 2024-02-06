@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/.github?style=flat&label=Issues%20Closed&labelColor=404040&color=c000c0" alt="Issues Closed">
     <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/.github?style=flat&label=Pull%20Requests%20Open&labelColor=404040&color=c000c0" alt="Pull Requests">
     <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/.github?label=Pull%20Requests%20Closed&labelColor=404040&color=c000c0" alt="Pull Requests Closed">
+    <img src="https://img.shields.io/github/discussions/XiMatriarx/.github?style=flat&label=Discussions&labelColor=404040&color=c000c0" alt="Discussions">
 </p>
 
 <p align="center">
@@ -36,6 +37,11 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
+    <img src="https://img.shields.io/badge/Versioning-SemVer-404040?label=Versioning&labelColor=404040&color=c000c0" alt="Versioning">
+    <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/.github?type=dir&style=flat&label=Directories&labelColor=404040&color=c000c0" alt="Directories">
+    <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/.github?type=file&style=flat&label=Directories&labelColor=404040&color=c000c0" alt="Files">
+    <img src="https://img.shields.io/github/repo-size/XiMatriarx/.github?style=flat&label=Size&labelColor=404040&color=c000c0" alt="Size">
+    <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/.github?style=flat&label=Code%20Size&labelColor=404040&color=c000c0" alt="Code Size">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040" alt="Website">
 </p>
 
