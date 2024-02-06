@@ -34,6 +34,10 @@
     <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/.github/cd?style=flat&label=CD&labelColor=404040&color=c000c0" alt="CD">
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
+</p>
+
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
 <p align="center">
