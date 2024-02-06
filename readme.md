@@ -74,8 +74,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&label=Stars&labelColor=404040&color=c000c0" alt="Stars">
     <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&label=Followers&labelColor=404040&color=c000c0" alt="Followers">
-    <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
-    <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
 </p>
 
 <p align="center">
