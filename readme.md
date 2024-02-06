@@ -36,7 +36,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040&color=c000c0" alt="Website">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040" alt="Website">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
