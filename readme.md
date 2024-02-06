@@ -10,6 +10,10 @@
 <p align="center">
     <img src="https://img.shields.io/github/release-date/XiMatriarx/.github?style=flat&label=Release%20Date&labelColor=404040&color=c000c0" alt="Release Date">
     <img src="https://img.shields.io/github/commits-since/XiMatriarx/.github/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
+    <img src="https://img.shields.io/github/stars/XiMatriarx/.github?style=flat&label=Stars&labelColor=404040&color=c000c0" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/XiMatriarx/.github?style=flat&label=Watchers&labelColor=404040&color=c000c0" alt="Watchers">
+    <img src="https://img.shields.io/github/v/release/XiMatriarx/.github?sort=semver&style=flat&label=Release&labelColor=404040&color=c000c0" alt="Release">
+    <img src="https://img.shields.io/github/v/tag/XiMatriarx/.github?sort=semver&style=flat&label=Tag&labelColor=404040&color=c000c0" alt="Tag">
 </p>
 
 <p align="center">
@@ -61,10 +65,17 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/XiMatriarx" target="_blank"><img src="https://img.shields.io/discord/XiMatriarx?style=flat&logo=Discord&label=Discord&labelColor=404040&color=404040" alt="Discord"></a>
-    <a href="https://www.reddit.com/r/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-Reddit-404040?style=flat&logo=Reddit" alt="Reddit"></a>
+    <a href="https://discord.gg/XiMatriarx" target="_blank"><img src="https://img.shields.io/discord/XiMatriarx?style=flat&logo=Discord&label=Discord&labelColor=404040&color=c000c0" alt="Discord"></a>
+    <a href="https://www.reddit.com/r/XiMatriarx" target="_blank"><img src="https://img.shields.io/reddit/subreddit-subscribers/XiMatriarx?style=flat&logo=Reddit&label=Reddit&labelColor=404040&color=c000c0" alt="Reddit"></a>
     <a href="https://linkedin.com/in/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-404040?style=flat&logo=LinkedIn" alt="LinkedIn"></a>
     <a href="https://twitter.com/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-X-404040?style=flat&logo=X" alt="X"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&label=Stars&labelColor=404040&color=c000c0" alt="Stars">
+    <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&label=Followers&labelColor=404040&color=c000c0" alt="Followers">
+    <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
+    <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
 </p>
 
 <p align="center">
