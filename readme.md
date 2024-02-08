@@ -1,8 +1,8 @@
 <h1 align="center">✨🧚🏻‍♀️🪄✨ .github 💕🦄🌈🏰</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/XiMatriarx/.github?style=flat&label=Stars&labelColor=404040&color=800080" alt="Stars">
-  <img src="https://img.shields.io/github/watchers/XiMatriarx/.github?style=flat&label=Watchers&labelColor=404040&color=800080" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/XiMatriarx/.github?style=flat&logo=GitHub&label=Stars&labelColor=404040&color=800080" alt="Stars">
+  <img src="https://img.shields.io/github/watchers/XiMatriarx/.github?style=flat&logo=GitHub&label=Watchers&labelColor=404040&color=800080" alt="Watchers">
 </p>
 
 <p align="center">
@@ -10,27 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues-raw/XiMatriarx/.github?style=flat&label=Issues&labelColor=404040&color=800080" alt="Issues">
-  <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/.github?style=flat&label=Issues%20Closed&labelColor=404040&color=800080" alt="Issues Closed">
-  <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/.github?style=flat&label=Pull%20Requests&labelColor=404040&color=800080" alt="Pull Requests">
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/.github?label=Pull%20Requests%20Closed&labelColor=404040&color=800080" alt="Pull Requests Closed">
-  <img src="https://img.shields.io/github/discussions/XiMatriarx/.github?style=flat&label=Discussions&labelColor=404040&color=800080" alt="Discussions">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=800080" alt="Commits (Total)">
-  <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=800080" alt="Commits (Year)">
-  <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=800080" alt="Commits (Month)">
-  <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/.github?style=flat&label=Commits&labelColor=404040&color=800080" alt="Commits (Week)">
-  <img src="https://img.shields.io/github/commits-since/XiMatriarx/.github/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=800080" alt="Release Commits">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/.github?type=dir&style=flat&label=Directories&labelColor=404040&color=800080" alt="Directories">
-  <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/.github?type=file&style=flat&label=Files&labelColor=404040&color=800080" alt="Files">
-  <img src="https://img.shields.io/github/repo-size/XiMatriarx/.github?style=flat&label=Size&labelColor=404040&color=800080" alt="Size">
-  <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/.github?style=flat&label=Code%20Size&labelColor=404040&color=800080" alt="Code Size">
-  <img src="https://img.shields.io/github/downloads/XiMatriarx/.github/total?style=flat&label=Downloads&labelColor=404040&color=800080" alt="Downloads">
+  <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/.github?type=dir&style=flat&logo=GitHub&label=Directories&labelColor=404040&color=800080" alt="Directories">
+  <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/.github?type=file&style=flat&logo=GitHub&label=Files&labelColor=404040&color=800080" alt="Files">
+  <img src="https://img.shields.io/github/repo-size/XiMatriarx/.github?style=flat&logo=GitHub&label=Size&labelColor=404040&color=800080" alt="Size">
+  <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/.github?style=flat&logo=GitHub&label=Code%20Size&labelColor=404040&color=800080" alt="Code Size">
+  <img src="https://img.shields.io/github/downloads/XiMatriarx/.github/total?style=flat&logo=GitHub&label=Downloads&labelColor=404040&color=800080" alt="Downloads">
 </p>
 
 <p align="center">
@@ -60,8 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&label=Stars&labelColor=404040&color=800080" alt="Stars">
-  <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&label=Followers&labelColor=404040&color=800080" alt="Followers">
+  <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&logo=GitHub&label=Stars&labelColor=404040&color=800080" alt="Stars">
+  <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&logo=GitHub&label=Followers&labelColor=404040&color=800080" alt="Followers">
 </p>
 
 <p align="center">
