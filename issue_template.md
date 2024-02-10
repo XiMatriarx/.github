@@ -1,4 +1,5 @@
-# What is the issue?
+# Issue
+Describe your issue in detail, including what happened and what you were expecting to happen.  
 
-
-# Provide any code, errors or logs you have.  
+# Debug
+Provide any code, errors, logs or information you have.  
