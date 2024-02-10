@@ -1,3 +1,4 @@
+---
 name: Issue
 description: Report a new issue
 title: Issue
@@ -18,3 +19,4 @@ body:
       description: Provide any code, errors or logs you have.  
     validations:
       required: true
+---
